@@ -32,9 +32,9 @@ Drag Tesla-More to your applications folder, and then run Tesla-More.
 
 * See the documentation at the [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
 for help and more information.
-* Ask for help on [#tesla](http://webchat.freenode.net?channels=tesla) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=tesla).
-* Ask for help in [Tesla room](https://gitter.im/Tesla_Hub) on Gitter.
-* Ask for help in [/r/tesla/](https://nm.reddit.com/r/tesla/) on Reddit.
+* Ask for help on [#tesla](http://webchat.freenode.net?channels=teslachain) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=teslachain).
+* Ask for help in [Tesla room](https://gitter.im/Tesla_chain) on Gitter.
+* Ask for help in [/r/tesla/](https://nm.reddit.com/r/teslachain/) on Reddit.
 * Ask for help on the [BitcoinTalk](https://bitcointalk.org/) forums, in the [Tesla topic](https://bitcointalk.org/index.php?topic=3017838.new#new).
 
 Building
